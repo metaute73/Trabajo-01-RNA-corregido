@@ -7,4 +7,4 @@ AG: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-c
 
 ### 📊 **Detalles Técnicos**
 - **Language:** Python
-- **Libraries:** Matplotlib.
+- **Libraries:** Matplotlib, Numpy, Pygad.
