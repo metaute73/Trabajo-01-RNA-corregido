@@ -4,9 +4,9 @@ Daniel Metaute Medina
 
 Juan Sebastian Zapata Echeverrí
 
-Juan José Marín Monsalve
+Juan José Monsalve Marín
 
-Hans Guillermo 
+Hans Guillermo García Vargas
 
 
 ## Punto 1: Optimización Numérica
