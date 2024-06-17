@@ -1,9 +1,9 @@
 # 🖥️  **Trabajo 1: Algoritmos Bio-inspirados** 🐍🧬
 ## **Grupo 8**
-### Daniel Metaute Medina
-### Juan Sebastian Zapata Echeverrí
-### Juan José Marín Monsalve
-### Hans Guillermo 
+Daniel Metaute Medina
+Juan Sebastian Zapata Echeverrí
+Juan José Marín Monsalve
+Hans Guillermo 
 
 ## Punto 1: Optimización Numérica
 Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
