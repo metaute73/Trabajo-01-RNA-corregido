@@ -28,6 +28,7 @@ PSO: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-
 ## Punto 2: Optimización Combinatoria
 
 ### 🐜 **Colonia de Hormigas**
+CH: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_2_Optimizaci%C3%B3n_Combinatoria/Colonia_de_Hormigas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### 🔄 **Algoritmo Genético**
 AG: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_2_Optimizaci%C3%B3n_Combinatoria/Algoritmo_Gen%C3%A9tico.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
