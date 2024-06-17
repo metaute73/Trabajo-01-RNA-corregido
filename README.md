@@ -1,33 +1,13 @@
 # 🖥️  **Trabajo 1: Algoritmos Bio-inspirados** 🐍🧬
 ## **Grupo 8**
 Daniel Metaute Medina
+
 Juan Sebastian Zapata Echeverrí
+
 Juan José Marín Monsalve
+
 Hans Guillermo 
 
-<center>
-
-# **MICROPROYECTO 2**  
-
----
-## *Aprendizaje No Supervisado*
-### Clustering
-
-
-
----
-
-Equipo 2
-
-Simón Henao Angarita \\
-Daniel Metaute Medina \\
-Jose Miguel Sánchez González
-
----
-Census - Estados más al este de los Estados Unidos
-
-
-</center>
 
 ## Punto 1: Optimización Numérica
 Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
