@@ -29,8 +29,13 @@ PSO: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-
 
 ### 🐜 **Colonia de Hormigas**
 
-### **Algoritmo Genético**
+### 🔄 **Algoritmo Genético**
 AG: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_2_Optimizaci%C3%B3n_Combinatoria/Algoritmo_Gen%C3%A9tico.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### 💡 **Visualización de los Algoritmos**
+Hemos creado animaciones que ayudan a ver cada etapa del proceso iterativo de cada algoritmo, estas animaciones ilustran:
+- Cómo se llega al mínimo de una función no convexa en 2 dimensiones
+- Cómo se descubre la ruta de mínimo costo entre distintas ciudades de Colombia.
 
 ### 📊 **Detalles Técnicos**
 - **Language:** Python
