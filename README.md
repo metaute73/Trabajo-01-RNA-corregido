@@ -18,6 +18,9 @@ Hans Guillermo García Vargas
 ### 🔍 **Descenso por el Gradiente**
 El descenso por el gradiente es un método iterativo para encontrar mínimos de una función, ajustando el punto actual en la dirección que reduce más rápidamente el valor de la función.
 
+GD: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_1_Optimizaci%C3%B3n_Num%C3%A9rica/Gradient_Descent___Evolution_Algorithms.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 ### 🐛 **Algoritmo Evolutivo**
 Es una técnica de optimización inspirada en la evolución natural que utiliza procesos como selección, mutación y recombinación para iterativamente mejorar una población de soluciones posibles a un problema.
 
