@@ -24,7 +24,6 @@ GD: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-c
 ### 🐛 **Algoritmo Evolutivo**
 Es una técnica de optimización inspirada en la evolución natural que utiliza procesos como selección, mutación y recombinación para iterativamente mejorar una población de soluciones posibles a un problema.
 
-ED: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_1_Optimizaci%C3%B3n_Num%C3%A9rica/Evoluci%C3%B3n_Diferencial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### 🦅 **Optimización de Partículas**
 Simula el comportamiento social de enjambres (como bandadas de aves) para encontrar la mejor solución mediante la colaboración y el intercambio de información entre partículas.
@@ -34,6 +33,8 @@ PSO: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-
 
 ### 🦋 **Evolución Diferencial**
 Utiliza diferencias entre individuos de una población para crear nuevas soluciones, combinando mutación, recombinación y selección para encontrar el óptimo global de una función.
+
+ED: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_1_Optimizaci%C3%B3n_Num%C3%A9rica/Evoluci%C3%B3n_Diferencial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Punto 2: Optimización Combinatoria
 
