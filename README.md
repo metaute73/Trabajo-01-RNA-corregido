@@ -18,6 +18,7 @@ Hans Guillermo García Vargas
 ### 🔍 **Descenso por el Gradiente**
 El descenso por el gradiente es un método iterativo para encontrar mínimos de una función, ajustando el punto actual en la dirección que reduce más rápidamente el valor de la función.
 
+Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
 GD: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_1_Optimizaci%C3%B3n_Num%C3%A9rica/Gradient_Descent___Evolution_Algorithms.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -34,6 +35,7 @@ PSO: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-
 ### 🦋 **Evolución Diferencial**
 Utiliza diferencias entre individuos de una población para crear nuevas soluciones, combinando mutación, recombinación y selección para encontrar el óptimo global de una función.
 
+Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
 ED: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_1_Optimizaci%C3%B3n_Num%C3%A9rica/Evoluci%C3%B3n_Diferencial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Punto 2: Optimización Combinatoria
@@ -41,10 +43,12 @@ ED: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-c
 ### 🐜 **Colonia de Hormigas**
 Es un algoritmo de optimización basado en el comportamiento de búsqueda de alimento de las hormigas, que utiliza feromonas para guiarse y encontrar rutas óptimas en un grafo, emulando su capacidad para descubrir el camino más corto.
 
+Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
 CH: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_2_Optimizaci%C3%B3n_Combinatoria/Colonia_de_Hormigas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### 🔄 **Algoritmo Genético**
 
+Click here 👇🏼 to see the animations, the code and a detailed breakdown of everything!  
 AG: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-corregido/blob/main/Punto_2_Optimizaci%C3%B3n_Combinatoria/Algoritmo_Gen%C3%A9tico.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### 💡 **Visualización de los Algoritmos**
