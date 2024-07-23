@@ -40,6 +40,8 @@ ED: <a href="https://colab.research.google.com/github/metaute73/Trabajo-01-RNA-c
 
 ## Punto 2: Optimización Combinatoria
 
+Para estos dos notebooks es necesario cargar los archivos de 'colombia_Verde.png' y colombia_Rojo.png' disponibles en el repositorio para ver las animaciones, en esta sección del repositorio también se encuentra toda la información relacionada con la matriz de costos en 'Info_costos.xlsx'.
+
 ### 🐜 **Colonia de Hormigas**
 Es un algoritmo de optimización basado en el comportamiento de búsqueda de alimento de las hormigas, que utiliza feromonas para guiarse y encontrar rutas óptimas en un grafo, emulando su capacidad para descubrir el camino más corto.
 
